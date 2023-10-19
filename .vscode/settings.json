@@ -1,0 +1,7 @@
+{
+    "search.useGlobalIgnoreFiles": false,
+    "html.format.wrapAttributesIndentSize": 80,
+    "html.format.wrapAttributes": "auto",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.formatOnType": true
+}
